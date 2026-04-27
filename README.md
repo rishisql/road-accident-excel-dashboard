@@ -2,4 +2,4 @@
 Excel project analyzing road accidents in India using Power Query and dashboards to identify trends and risk patterns.
 ## Dashboard Preview
 
-![Dashboard](Dashboard.jpeg)
+![Dashboard](dashboard.jpeg)
